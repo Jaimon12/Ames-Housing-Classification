@@ -13,7 +13,7 @@ To classify houses into high or low price classes using early-known features. Th
 ---
 
 ## 📁 Dataset
-**Source**: [Ames Housing Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Ames+Housing)
+**Source**: [Ames Housing Dataset - UCI Machine Learning Repository](https://www.kaggle.com/datasets/rana963/ameshousing)
 - 80 explanatory variables
 - 2930 property transactions in Ames, Iowa
 - Features include physical characteristics, quality scores, location, and more
